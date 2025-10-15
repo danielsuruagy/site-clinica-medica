@@ -1,31 +1,17 @@
-# 🎯 Objetivo
+# Site para uma Clínica Médica
 
-Criar um site **"quase" completo** utilizando todos os conceitos básicos de **HTML** abordados no módulo, incluindo **formulários**, **estruturação de texto**, **mídias** e **tabelas**.
+Criação de um site para uma clínica médica, utilizando conceitos básicos de **HTML**, incluindo **formulários**, **estruturação de texto**, **mídias** e **tabelas**.
 
----
+## 🖥️ Tecnologias Utilizadas
 
-## 🛠 Tecnologias Utilizadas
-
-### 🔹 HTML5
-- Estrutura semântica  
-- Formulários com validação  
-- Tabelas para organização de dados  
-- Iframes para integração com mapas  
-- Elementos multimídia  
-
-### 🔹 CSS3
-- Layout responsivo com **Flexbox** e **Grid**  
-- Design system com **cores consistentes**  
-- **Media queries** para abordagem *mobile-first*  
-- **Animações** e **transições** suaves  
-- Estilização de **formulários** e **tabelas**  
-
----
+- **HTML5**
+- **CSS3**
 
 ## 🚀 Funcionalidades
-
-### 🔧 Funcionalidades Gerais
-- **Menu de Navegação** — Sistema de navegação consistente em todas as páginas  
-- **Layout Responsivo** — Adaptável para desktop, tablet e mobile  
-- **Header Dinâmico** — Imagem diferente em cada página  
-- **Footer Padrão** — Informações de contato em todas as páginas  
+- Formulários com validação
+- Tabelas para organização de dados
+- Iframes para integração com mapas
+- Elementos multimídia
+- Layout responsivo com Flexbox e Grid
+- Media queries para abordagem mobile-first
+- Animações e **transições** suaves
